@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="my_best_selfie.png">
+    <img src="my_best_selfie.png" width=300 heigth=300 style="border-radius:0%; box-shadow: 15px 15px;">
 </p>
 
 ## Tentang saya
