@@ -1,10 +1,6 @@
-<p align="center">
-    <img src="my_best_selfie.png" width=300 heigth=300 style="border-radius:10%;">
-</p>
-
 ## Tentang saya
 
-seorang pelajar di SMPN 4 Cimahi yang akan lulus di tahun 2022
+Hi saya adalah seorang coder, saya pertama kali belajar ngoding tahun 2020
 
 ### Hobi
 - coding
@@ -19,6 +15,4 @@ seorang pelajar di SMPN 4 Cimahi yang akan lulus di tahun 2022
 ### other
 - html
 - css
-
-
 
