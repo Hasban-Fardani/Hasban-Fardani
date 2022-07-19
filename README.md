@@ -12,7 +12,7 @@ Hi saya adalah seorang coder, saya pertama kali belajar ngoding tahun 2020
 - c++
 - javascript
 
-### other
+#### other
 - html
 - css
 
