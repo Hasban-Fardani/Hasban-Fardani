@@ -1,6 +1,6 @@
 ## Tentang saya
 
-Hi saya adalah seorang coder, saya pertama kali belajar ngoding tahun 2020
+Hi saya adalah seorang coder
 
 ### Hobi
 - coding
@@ -16,3 +16,4 @@ Hi saya adalah seorang coder, saya pertama kali belajar ngoding tahun 2020
 - html
 - css
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=hasban-fardani)](https://github.com/hasban-fardani)
