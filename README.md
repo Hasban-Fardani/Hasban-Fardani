@@ -1,9 +1,8 @@
 ## Tentang saya
 
 Hi saya adalah seorang coder
-
+[![Stats](https://github-readme-stats.vercel.app/api?username=hasban-fardani)](https://github.com/hasban-fardani)
 ### Hobi
-- coding
 - watching youtube
 - reading
 
@@ -11,9 +10,7 @@ Hi saya adalah seorang coder
 - python
 - c++
 - javascript
-
+- Go-Lang
 #### other
 - html
 - css
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=hasban-fardani)](https://github.com/hasban-fardani)
