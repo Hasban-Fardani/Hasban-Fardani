@@ -1,4 +1,4 @@
-Hi, my name is Hasban Fardani and i love code
+Hi 👋, I'm Hasban Fardani and I like coding
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=hasban-fardani)](https://github.com/hasban-fardani)
 
