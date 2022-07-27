@@ -1,14 +1,13 @@
-## Tentang saya
-
-Hi saya adalah seorang coder
+Hi, my name is Hasban Fardani and i love code
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=hasban-fardani)](https://github.com/hasban-fardani)
 
 ### Hobi
+- coding
 - watching youtube
-- reading
+- reading comic
 
-### Bahasa Pemrograman yang telah saya pelajari
+### Programming languanges
 - python
 - c++
 - javascript
