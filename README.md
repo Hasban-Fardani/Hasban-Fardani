@@ -16,14 +16,14 @@
 <p align="center">
   Hi 👋, I am Hasban Fardani, Vocational High School students from Indonesia.
 <br>
-  I'm currently studying at SMKN 11 Bandung
+  🔬 I'm currently studying at <a href="https://www.smkn11bdg.sch.id/">SMKN 11 Bandung</a>
 </p>
 <div align=center>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="Go to Source">
-      <img align="left" width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasban-fardani&theme=default" alt="Hasban" />
+      <img align="left" width=390 height=210 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasban-fardani&theme=default" alt="Hasban" />
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="Go to Source">
-      <img align="right" width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasban-fardani&theme=default" />
+      <img align="right" width=390 height=210 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasban-fardani&theme=default" />
     </a>
   </div>
 <br><br><br><br><br><br><br><br><br><br><br>
