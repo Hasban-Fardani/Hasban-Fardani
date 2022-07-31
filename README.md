@@ -11,10 +11,10 @@
 
 <div align=center>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="Go to Source">
-      <img align="left" width=420 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasban-fardani&theme=default" alt="Hasban" />
+      <img align="left" width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasban-fardani&theme=default" alt="Hasban" />
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="Go to Source">
-      <img align="right" width=420 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasban-fardani&theme=default" />
+      <img align="right" width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasban-fardani&theme=default" />
     </a>
   </div>
 <br><br><br><br><br><br><br><br><br><br><br>
