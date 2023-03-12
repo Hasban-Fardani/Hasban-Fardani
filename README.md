@@ -59,3 +59,5 @@ Vocational high school student in Indonesia
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/hasbanfardani"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hasbanfardani" /></a></p>
+
+<p><a href="https://saweria.co/hasban"><img align="left" src="https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcapy_happy.603c7293.svg&w=384&q=75" height="50" width="210" alt="hasbanfardani" /></a></p>
