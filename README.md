@@ -7,12 +7,16 @@ Vocational high school student in Indonesia
 - :zap: In my free time, I'm make a simple project and post it on github.
 - 📫 How to reach me: **hasbanfardani77@gmail.com**
 
+<hr>
+
 <h3 align="left"> :eyes: Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/hasban_fardani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasban_fardani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hasban-fardani-393a68207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasban-fardani-393a68207" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hasbanfardani77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hasbanfardani77" height="30" width="40" /></a>
 </p>
+
+<hr>
 
 ### :hammer_and_wrench: Languages and Tools:
 <p align="left"> 
@@ -42,11 +46,16 @@ Vocational high school student in Indonesia
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<hr>
+
 ### :fire: My Stats :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasban-fardani&show_icons=true&locale=en&layout=compact" alt="hasban-fardani" width="350px" height="200"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasban-fardani&show_icons=true&locale=en" alt="hasban-fardani" width="450px" height="200px"/></p>
 <p>
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hasban-fardani">
 </p>
+
+<hr>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/hasbanfardani"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hasbanfardani" /></a></p>
